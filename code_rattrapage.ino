@@ -4,8 +4,8 @@
 #define LED 26
 
 // WiFi settings - Based on project code
-const char* ssid = "Wi-Fi Maison des Élèves"; // Replace with network name
-const char* password = "w1f1delaME139"; // Replace with password
+const char* ssid = "Wi-Fi Name"; // Replace with network name
+const char* password = "pAssW0rD"; // Replace with password
 const char* backend_url = "http://backend-url/api/v1/questions"; // Backend URL (won't be used) - Replace with real URL
 
 void setup() {
